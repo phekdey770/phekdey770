@@ -112,13 +112,21 @@
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=phekdey770&theme=dark&hide_border=true&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
   
+
+  
+  ### Repository Overview
+  
+  | Stat | Count |
+  |------|-------|
+  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> **Total Repos** | ![Total](https://badges.pufler.dev/repos/phekdey770?color=20C20E) |
+
 </div>
 
 ---
 
-### 📬 Connect With Me
-
 <div align="center">
+
+  ### Connect With Me
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phekdey-phorn-3b67101aa/)
   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phorn.phekdey.kh)
