@@ -102,9 +102,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
+
+  ### GitHub Stats
   
   ![Phekdey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phekdey770&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=FFFFFF)
   
@@ -139,9 +139,13 @@
 
 ---
 
-### 📝 Latest Blog Posts
+<div align="center">
+  
+  ### Latest Blog Posts
+  
+  [➡ Read More Articles](https://phekdey.netlify.app/#home)
 
-[➡ Read More Articles](https://phekdey.netlify.app/#home)
+</div>
 
 ---
 
