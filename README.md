@@ -14,6 +14,25 @@
   
 </div>
 
+
+<div align="center">
+
+  ![Phekdey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phekdey770&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=FFFFFF)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phekdey770&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=phekdey770&theme=dark&hide_border=true&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+  
+
+  
+  ### Repository Overview
+  
+  | Stat | Count |
+  |------|-------|
+  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> **Total Repos** | ![Total](https://badges.pufler.dev/repos/phekdey770?color=20C20E) |
+
+</div>
+
 ---
 
 ### 🚀 Featured Projects
@@ -112,28 +131,6 @@
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-  ### GitHub Stats
-  
-  ![Phekdey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phekdey770&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=FFFFFF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phekdey770&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=phekdey770&theme=dark&hide_border=true&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
-  
-
-  
-  ### Repository Overview
-  
-  | Stat | Count |
-  |------|-------|
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> **Total Repos** | ![Total](https://badges.pufler.dev/repos/phekdey770?color=20C20E) |
 
 </div>
 
