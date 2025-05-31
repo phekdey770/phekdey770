@@ -40,7 +40,10 @@
 
 ---
 
-### 🎓 Certificates
+## 🎓 Certificates
+
+<details>
+<summary><strong>Cisco</strong></summary>
 
 <table>
   <thead>
@@ -56,42 +59,296 @@
   <tbody>
     <tr>
       <td>1</td>
-      <td>
-        <img src="https://example.com/certificate1.png" alt="Course 1" width="200"/>
-      </td>
-      <td>
-        Introduction to Web Development
-      </td>
-      <td>freeCodeCamp</td>
-      <td>2024-06-15</td>
+      <td><img src="https://example.com/cisco1.png" alt="Cisco 1" width="200"/></td>
+      <td>Introduction to Cybersecurity</td>
+      <td>Cisco</td>
+      <td>2024-02-15</td>
       <td>2024</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-        <img src="https://example.com/certificate1.png" alt="Course 1" width="200"/>
-      </td>
-      <td>
-        Introduction to Web Development
-      </td>
-      <td>Codecademy</td>
-      <td>2024-08-10</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-        <img src="https://example.com/certificate1.png" alt="Course 1" width="200"/>
-      </td>
-      <td>
-        Introduction to Web Development
-      </td>
-      <td>Coursera</td>
-      <td>2025-01-12</td>
-      <td>2025</td>
     </tr>
   </tbody>
 </table>
+
+</details>
+
+<details>
+<summary><strong>Udemy</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://example.com/udemy1.png" alt="Udemy 1" width="200"/></td>
+      <td>Advanced JavaScript</td>
+      <td>Udemy</td>
+      <td>2024-05-20</td>
+      <td>2024</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+<details>
+<summary><strong>Coursera</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://example.com/coursera1.png" alt="Coursera 1" width="200"/></td>
+      <td>Machine Learning</td>
+      <td>Coursera</td>
+      <td>2024-06-10</td>
+      <td>2024</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+<details>
+<summary><strong>edX</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://example.com/edx1.png" alt="edX 1" width="200"/></td>
+      <td>CS50: Intro to Computer Science</td>
+      <td>edX</td>
+      <td>2024-07-01</td>
+      <td>2024</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+<details>
+<summary><strong>SoloLearn</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://example.com/sololearn1.png" alt="SoloLearn 1" width="200"/></td>
+      <td>Python Core</td>
+      <td>SoloLearn</td>
+      <td>2024-04-28</td>
+      <td>2024</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+<details>
+<summary><strong>Great Learning</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://example.com/greatlearning1.png" alt="Great Learning 1" width="200"/></td>
+      <td>Cloud Computing Basics</td>
+      <td>Great Learning</td>
+      <td>2024-03-19</td>
+      <td>2024</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+<details>
+<summary><strong>Google</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://example.com/google1.png" alt="Google 1" width="200"/></td>
+      <td>Google IT Support</td>
+      <td>Google</td>
+      <td>2024-01-05</td>
+      <td>2024</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+<details>
+<summary><strong>HackerRank</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://example.com/hackerrank1.png" alt="HackerRank 1" width="200"/></td>
+      <td>SQL (Intermediate)</td>
+      <td>HackerRank</td>
+      <td>2024-02-12</td>
+      <td>2024</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+<details>
+<summary><strong>HubSpot</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://example.com/hubspot1.png" alt="HubSpot 1" width="200"/></td>
+      <td>Inbound Marketing</td>
+      <td>HubSpot</td>
+      <td>2023-11-22</td>
+      <td>2023</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+<details>
+<summary><strong>SkillUp</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://example.com/skillup1.png" alt="SkillUp 1" width="200"/></td>
+      <td>Data Structures in Java</td>
+      <td>SkillUp</td>
+      <td>2024-06-03</td>
+      <td>2024</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+<details>
+<summary><strong>Insurance Academy</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://example.com/insurance1.png" alt="Insurance 1" width="200"/></td>
+      <td>Fundamentals of Insurance</td>
+      <td>Insurance Academy</td>
+      <td>2024-05-08</td>
+      <td>2024</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
 
 ---
 
