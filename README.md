@@ -18,10 +18,13 @@
 <div align="center">
 
   ![Phekdey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phekdey770&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=FFFFFF)
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=phekdey770&theme=darkhub&no-frame=true&title=Commit,Stars,Followers,PullRequest,Issues&column=3)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phekdey770&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF)
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=phekdey770&theme=dark&hide_border=true&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+  
   
 
   
