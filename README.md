@@ -12,6 +12,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=phekdey770&label=Profile+Views&color=20C20E&style=flat-square)
   ![GitHub Followers](https://img.shields.io/github/followers/phekdey770?label=Followers&style=social)
   ![GitHub Stars](https://img.shields.io/github/stars/phekdey770?label=Stars&style=social)
+  ![Timezone](https://img.shields.io/badge/timezone-GMT%2B7%20(Cambodia)-blue)
   
 </div>
 
