@@ -38,6 +38,11 @@
 
 ---
 
+### 📌 Pinned Repo
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phekdey770&repo=school-dashboard-app&theme=dark&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF)](https://github.com/phekdey770/school-dashboard-app)
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Live Demo |
