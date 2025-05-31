@@ -6,6 +6,7 @@
   Bring everything you want with your own ability, keep learning to improve it, and share it. Welcome! I'm PHEKDEY, an IT Developer passionate about technology and innovation. I thrive on problem-solving, continuous learning, and sharing knowledge within the tech community.
 </p>
 
+
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=phekdey770&label=Profile+Views&color=20C20E&style=flat-square)
@@ -170,6 +171,17 @@
 ---
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phekdey770&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF&area=true&hide_border=true)](https://github.com/phekdey770)
+
+---
+
+<div align="center">
+  
+  ![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phekdey770&theme=github_dark)
+  ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phekdey770&theme=github_dark)
+  ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phekdey770&theme=github_dark)
+  ![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phekdey770&theme=github_dark)
+
+</div>
 
 ---
 
