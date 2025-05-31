@@ -62,8 +62,8 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662409/Cisco-JavaScript_Essen-certificate_i3fdqy.png" alt="Cisco 1" width="200"/></td>
       <td>JavaScript Essentials</td>
       <td>Cisco</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>20-Oct-2022</td>
+      <td>2022</td>
     </tr>
   </tbody>
 </table>
@@ -90,48 +90,48 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662439/Google_Ads_for_Beginners_cupyvs.png" alt="Coursera 1" width="200"/></td>
       <td>Google Ads for Beginners</td>
       <td>Coursera</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>13-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>2</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662438/Getting_Started_with_Microsoft_Word_fgriij.png" alt="Coursera 2" width="200"/></td>
       <td>Getting Started with Microsoft Word</td>
       <td>Coursera</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>20-Nov-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>3</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662438/Introduction_to_Microsoft_Excel_dry06t.png" alt="Coursera 3" width="200"/></td>
       <td>Introduction to Microsoft Excel</td>
       <td>Coursera</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>13-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>4</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662438/Build_a_Full_Website_using_WordPress_pzqaf4.png" alt="Coursera 4" width="200"/></td>
       <td>Build a Full Website using WordPress</td>
       <td>Coursera</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>13-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>5</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662437/Creating_a_Free_Business_Page_with_Blogger_slolhv.png" alt="Coursera 5" width="200"/></td>
       <td>Creating a Free Business Page with Blogger</td>
       <td>Coursera</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>21-Nov-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>6</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662436/Build_a_free_website_with_WordPress_uugez0.png" alt="Coursera 6" width="200"/></td>
       <td>Build a free website with WordPress</td>
       <td>Coursera</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>13-Oct-2024</td>
+      <td>2024</td>
     </tr>
   </tbody>
 </table>
@@ -158,120 +158,120 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662462/Introduction_to_Responsible_AI_pauk34.png" alt="Google 1" width="200"/></td>
       <td>Introduction to Responsible AI</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>2</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662461/Introduction_to_Image_Generation_n6g9xz.png" alt="Google 2" width="200"/></td>
       <td>Introduction to Image Generation</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>3</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662461/Google-Introduction_to_Data_Studio_dmiep7.png" alt="Google 3" width="200"/></td>
       <td>Introduction to Data Studio</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2025</td>
+      <td>2025</td>
     </tr>
     <tr>
       <td>4</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662460/Google-Google_Tag_Manager_Fundamentals_ctw8uw.png" alt="Google 4" width="200"/></td>
       <td>Google Tag Manager Fundamentals</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2025</td>
+      <td>2025</td>
     </tr>
     <tr>
       <td>5</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662460/Google-Google_Analytics_for_Power_Users_v985zl.png" alt="Google 5" width="200"/></td>
       <td>Google Analytics for Power Users</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>23-Oct-2025</td>
+      <td>2025</td>
     </tr>
     <tr>
       <td>6</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662459/Google-Google_Analytics_Certification_hfcxvr.png" alt="Google 6" width="200"/></td>
       <td>Google Analytics Certification</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>26-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>7</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662459/Google-Google_Analytics_for_Beginners_qo8zyx.png" alt="Google 7" width="200"/></td>
       <td>Google Analytics for Beginners</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>23-Oct-2025</td>
+      <td>2025</td>
     </tr>
     <tr>
       <td>8</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662458/Google-Google_Ads_Video_Certification_tgdi3r.png" alt="Google 8" width="200"/></td>
       <td>Google Ads Video Certification</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>9</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662458/Google-Fundamentals_of_digital_marketing-certificate_tzg2jb.png" alt="Google 9" width="200"/></td>
       <td>Fundamentals of Digital Marketing</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>10</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662457/Google-Campaign_manager_360_Certification_Exam_gphqjk.png" alt="Google 10" width="200"/></td>
       <td>Campaign Manager 360 Certification Exam</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>26-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>11</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662457/Google-Getting_Started_With_Google_Analytics_360_iwgpcp.png" alt="Google 11" width="200"/></td>
       <td>Getting Started With Google Analytics 360</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>12</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662456/Google-Google_Ads_Search_Certification_mavhiv.png" alt="Google 12" width="200"/></td>
       <td>Google Ads Search Certification</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>13</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662455/Google-Google_Ads_Display_Certification_tuguwa.png" alt="Google 13" width="200"/></td>
       <td>Google Ads Display Certification</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>14</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662455/Google-Advanced_Google_Analytics_fub3tm.png" alt="Google 14" width="200"/></td>
       <td>Advanced Google Analytics</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>22-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>15</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662454/Google-Google_Ads_Apps_Certification_srvtxa.png" alt="Google 15" width="200"/></td>
       <td>Google Ads Apps Certification</td>
       <td>Google</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>22-Oct-2022</td>
+      <td>2022</td>
     </tr>
   </tbody>
 </table>
@@ -298,376 +298,376 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664074/Great_Learning-What_is_IoT_vm024z.png" alt="Great Learning 1" width="200"/></td>
       <td>What is IoT</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>01-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>2</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664072/Great_Learning-Visual_Studio_Online_rlmjgo.png" alt="Great Learning 2" width="200"/></td>
       <td>Visual Studio Online</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>01-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>3</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664070/Great_Learning-Visual_Graphics_in_C_pljqw3.png" alt="Great Learning 3" width="200"/></td>
       <td>Visual Graphics in C</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>01-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>4</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664069/Great_Learning-SQL_for_Data_Science_at82rb.png" alt="Great Learning 4" width="200"/></td>
       <td>SQL for Data Science</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>02-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>5</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664067/Great_Learning-SEO_Strategies_asspxw.png" alt="Great Learning 5" width="200"/></td>
       <td>SEO Strategies</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>02-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>6</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664066/Great_Learning-PowerPoint_for_Beginners_cyakfu.png" alt="Great Learning 6" width="200"/></td>
       <td>PowerPoint for Beginners</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>02-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>7</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664063/Great_Learning-PHP_kcmtz6.png" alt="Great Learning 7" width="200"/></td>
       <td>PHP</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>03-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>8</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664062/Great_Learning-Operators_in_MySQL_julogm.png" alt="Great Learning 8" width="200"/></td>
       <td>Operators in MySQL</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>03-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>9</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664060/Great_Learning-OOPs_in_Java_sz4eug.png" alt="Great Learning 9" width="200"/></td>
       <td>OOPs in Java</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>03-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>10</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664058/Great_Learning-OOPs_Concepts_in_C_tjzx8q.png" alt="Great Learning 10" width="200"/></td>
       <td>OOPs Concepts in C</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>04-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>11</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664057/Great_Learning-Microsoft_Azure_Application_az3n7d.png" alt="Great Learning 11" width="200"/></td>
       <td>Microsoft Azure Application</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>04-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>12</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664055/Great_Learning-JQuery_Tutorial_ovkufz.png" alt="Great Learning 12" width="200"/></td>
       <td>JQuery Tutorial</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>05-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>13</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664053/Great_Learning-JDBC_in_Java_wgdsna.png" alt="Great Learning 13" width="200"/></td>
       <td>JDBC in Java</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>06-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>14</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664052/Great_Learning-JavaScript_Projects_ojhbga.png" alt="Great Learning 14" width="200"/></td>
       <td>JavaScript Projects</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>07-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>15</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664050/Great_Learning-Java_Programming_macv9u.png" alt="Great Learning 15" width="200"/></td>
       <td>Java Programming</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>08-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>16</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664049/Great_Learning-Java_Data_Structures_for_Intermediate_Level_p4tfxj.png" alt="Great Learning 16" width="200"/></td>
       <td>Java Data Structures for Intermediate Level</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>09-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>17</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664047/Great_Learning-Java_Data_Structures_for_Beginners_ewdvhi.png" alt="Great Learning 17" width="200"/></td>
       <td>Java Data Structures for Beginners</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>10-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>18</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664045/Great_Learning-Java_Basic_Programs_qb8mnt.png" alt="Great Learning 18" width="200"/></td>
       <td>Java Basic Programs</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>11-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>19</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664044/Great_Learning-Java_Algorithms_hlcmli.png" alt="Great Learning 19" width="200"/></td>
       <td>Java Algorithms</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>20</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664042/Great_Learning-Introduction_to_JavaScript_lp5lhy.png" alt="Great Learning 20" width="200"/></td>
       <td>Introduction to JavaScript</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>21</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664041/Great_Learning-Instagram_Marketing_Fundamentals_lijikp.png" alt="Great Learning 21" width="200"/></td>
       <td>Instagram Marketing Fundamentals</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>22</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664039/Great_Learning-HTML_Attributes_and_Tags_t61ft1.png" alt="Great Learning 22" width="200"/></td>
       <td>HTML Attributes and Tags</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>13-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>23</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664038/Great_Learning-Google_Video_Campaign_soe6uj.png" alt="Great Learning 23" width="200"/></td>
       <td>Google Video Campaign</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>14-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>24</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664036/Great_Learning-Google_Search_Campaign_tp7gei.png" alt="Great Learning 24" width="200"/></td>
       <td>Google Search Campaign</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>15-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>25</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664035/Great_Learning-Google_Display_Campaign_emhb21.png" alt="Great Learning 25" width="200"/></td>
       <td>Google Display Campaign</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>16-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>26</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664033/Great_Learning-Google_Discovery_Campaign_pcvmag.png" alt="Great Learning 26" width="200"/></td>
       <td>Google Discovery Campaign</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>17-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>27</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664032/Great_Learning-Google_Colab_Python_xlag3t.png" alt="Great Learning 27" width="200"/></td>
       <td>Google Colab Python</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>18-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>28</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664030/Great_Learning-Google_App_Campaign_jo8pmf.png" alt="Great Learning 28" width="200"/></td>
       <td>Google App Campaign</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>19-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>29</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664029/Great_Learning-Google_Analytics_isl3tx.png" alt="Great Learning 29" width="200"/></td>
       <td>Google Analytics</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>20-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>30</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664027/Great_Learning-Front_End_Development_-_HTML_boqq5s.png" alt="Great Learning 30" width="200"/></td>
       <td>Front End Development - HTML</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>20-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>31</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664026/Great_Learning-Front_End_Development_-_CSS_dhg34h.png" alt="Great Learning 31" width="200"/></td>
       <td>Front End Development - CSS</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>21-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>32</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664024/Great_Learning-Facebook_Business_Manager_ijdh0o.png" alt="Great Learning 32" width="200"/></td>
       <td>Facebook Business Manager</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>22-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>33</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664023/Great_Learning-Excel_Tips_and_Tricks_lowcst.png" alt="Great Learning 33" width="200"/></td>
       <td>Excel Tips and Tricks</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>23-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>34</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664021/Great_Learning-Excel_for_Beginners_unuc2q.png" alt="Great Learning 34" width="200"/></td>
       <td>Excel for Beginners</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>35</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664020/Great_Learning-Ecommerce_Website_with_HTML_CSS_fsixfx.png" alt="Great Learning 35" width="200"/></td>
       <td>Ecommerce Website with HTML CSS</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>36</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664018/Great_Learning-Design_App_axwr5l.png" alt="Great Learning 36" width="200"/></td>
       <td>Design App</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>26-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>37</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664017/Great_Learning-Data_Structure_Algorithms_in_Java_for_Intermediate_Level_fcm70d.png" alt="Great Learning 37" width="200"/></td>
       <td>Data Structure Algorithms in Java for Intermediate Level</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>27-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>38</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664016/Great_Learning-Data_Analytics_using_Excel_emiuup.png" alt="Great Learning 38" width="200"/></td>
       <td>Data Analytics using Excel</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>27-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>39</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664014/Great_Learning-CSS_Tutorial_chyjcx.png" alt="Great Learning 39" width="200"/></td>
       <td>CSS Tutorial</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>27-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>40</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664013/Great_Learning-CSS_Properties_chxgqv.png" alt="Great Learning 40" width="200"/></td>
       <td>CSS Properties</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>28-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>41</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664012/Great_Learning-Create_a_IPL_theme_Landing_page_with_CSS_and_HTML_x1rjt2.png" alt="Great Learning 41" width="200"/></td>
       <td>Create a IPL theme Landing page with CSS and HTML</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>28-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>42</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664011/Great_Learning-Collections_in_Java_w6tjvz.png" alt="Great Learning 42" width="200"/></td>
       <td>Collections in Java</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>28-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>43</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664009/Great_Learning-C_Tutorial_rl6qtv.png" alt="Great Learning 43" width="200"/></td>
       <td>C Tutorial</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>29-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>44</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664008/Great_Learning-C_for_Beginners_biolds.png" alt="Great Learning 44" width="200"/></td>
       <td>C for Beginners</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>30-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>45</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664006/Great_Learing-Dev_C_Tutorial_jy5ecn.png" alt="Great Learning 45" width="200"/></td>
       <td>Dev C Tutorial</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>30-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>46</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664006/Great_Learning-Building_Games_using_JavaScript_u5nqxx.png" alt="Great Learning 46" width="200"/></td>
       <td>Building Games using JavaScript</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>30-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>47</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748664005/ChatGPT_for_Beginners_gscxfr.png" alt="Great Learning 47" width="200"/></td>
       <td>ChatGPT for Beginners</td>
       <td>Great Learning</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2024</td>
+      <td>2024</td>
     </tr>
   </tbody>
 </table>
@@ -694,16 +694,16 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662577/Hacker_Rank-sql_intermediate_certificate_ihafux.png" alt="HackerRank 1" width="200"/></td>
       <td>SQL Intermediate Certificate</td>
       <td>HackerRank</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>2</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662577/Hacker_Rank-sql_basic_certificate_izb5qo.png" alt="HackerRank 2" width="200"/></td>
       <td>SQL Basic Certificate</td>
       <td>HackerRank</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2022</td>
+      <td>2022</td>
     </tr>
   </tbody>
 </table>
@@ -730,32 +730,32 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662598/Hub-Email_Marketing_svwyay.png" alt="HubSpot 1" width="200"/></td>
       <td>Email Marketing</td>
       <td>HubSpot</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>2</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662598/Hub-Growth-Driven_Design_alleh8.png" alt="HubSpot 2" width="200"/></td>
       <td>Growth-Driven Design</td>
       <td>HubSpot</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>3</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662597/Hub-Digital_Marketing_en5bxc.png" alt="HubSpot 3" width="200"/></td>
       <td>Digital Marketing</td>
       <td>HubSpot</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>4</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662597/Hub-Digital_Advertising_uejizh.png" alt="HubSpot 4" width="200"/></td>
       <td>Digital Advertising</td>
       <td>HubSpot</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
   </tbody>
 </table>
@@ -782,8 +782,8 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662616/Semrush-How_to_Get_More_Customers_with_Your_Small_Business_Website_with_Wes_McDowell_khy7si.png" alt="Semrush 1" width="200"/></td>
       <td>How to Get More Customers with Your Small Business Website with Wes McDowell</td>
       <td>Semrush</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2022</td>
+      <td>2022</td>
     </tr>
   </tbody>
 </table>
@@ -810,208 +810,208 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662952/SkillUp-Learn_Advanced_C_Course_Online_wxf5y4.png" alt="SkillUp 1" width="200"/></td>
       <td>Learn Advanced C Course Online</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>28-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>2</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662951/SkillUp-JavaScript_for_Beginners_hkwhrg.png" alt="SkillUp 2" width="200"/></td>
       <td>JavaScript for Beginners</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>28-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>3</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662951/SkillUp-Java_Certification_Course_jg1snv.png" alt="SkillUp 3" width="200"/></td>
       <td>Java Certification Course</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>4</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662950/SkillUp-Introduction_to_SQL_izh99b.png" alt="SkillUp 4" width="200"/></td>
       <td>Introduction to SQL</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>26-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>5</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662950/SkillUp-Introduction_to_PHP_scu3xr.png" alt="SkillUp 5" width="200"/></td>
       <td>Introduction to PHP</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>26-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>6</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662949/SkillUp-Introduction_to_MS_Excel_tdoodj.png" alt="SkillUp 6" width="200"/></td>
       <td>Introduction to MS Excel</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>27-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>7</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662948/SkillUp-Introduction_to_IoT_k9yiba.png" alt="SkillUp 7" width="200"/></td>
       <td>Introduction to IoT</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>21-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>8</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662948/SkillUp-Introduction_to_HTML_bs8tih.png" alt="SkillUp 8" width="200"/></td>
       <td>Introduction to HTML</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>22-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>9</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662947/SkillUp-Introduction_to_CSS_ryzxzn.png" alt="SkillUp 9" width="200"/></td>
       <td>Introduction to CSS</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>24-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>10</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662947/SkillUp-Introduction_to_C_plus_plus_ggfptt.png" alt="SkillUp 10" width="200"/></td>
       <td>Introduction to C++</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>27-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>11</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662946/SkillUp-Introduction_to_Android_Studio_af7owz.png" alt="SkillUp 11" width="200"/></td>
       <td>Introduction to Android Studio</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>21-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>12</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662946/SkillUp-Excel_Dashboard_for_Beginners_iblec2.png" alt="SkillUp 12" width="200"/></td>
       <td>Excel Dashboard for Beginners</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>28-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>13</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662945/Introduction_to_LinkedIn_Marketing_lw5ybd.png" alt="SkillUp 13" width="200"/></td>
       <td>Introduction to LinkedIn Marketing</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>14</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662944/Introduction_to_Kali_Linux_Basics_j4ryrs.png" alt="SkillUp 14" width="200"/></td>
       <td>Introduction to Kali Linux Basics</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>11-Nov-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>15</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662944/Introduction_to_ITIL_V4_op9f5u.png" alt="SkillUp 15" width="200"/></td>
       <td>Introduction to ITIL V4</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>11-Nov-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>16</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662943/Introduction_to_Blogging_Basics_Course_ihsqqm.png" alt="SkillUp 16" width="200"/></td>
       <td>Introduction to Blogging Basics Course</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>17</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662943/Introduction_to_Affiliate_Marketing_for_Beginners_d2g16d.png" alt="SkillUp 17" width="200"/></td>
       <td>Introduction to Affiliate Marketing for Beginners</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>11-Nov-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>18</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662942/Basics_Tutorial_on_Business_rfrmwb.png" alt="SkillUp 18" width="200"/></td>
       <td>Basics Tutorial on Business</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>19</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662942/Google_Sheets_g5mgph.png" alt="SkillUp 19" width="200"/></td>
       <td>Google Sheets</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>20</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662942/Basic_of_SaaS_Business_Online_maibni.png" alt="SkillUp 20" width="200"/></td>
       <td>Basic of SaaS Business Online</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>11-Nov-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>21</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662942/Innovating_with_Google_Cloud_AI_r6uof7.png" alt="SkillUp 21" width="200"/></td>
       <td>Innovating with Google Cloud AI</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Nov-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>22</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662941/Google_Docs_kikhdx.png" alt="SkillUp 22" width="200"/></td>
       <td>Google Docs</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>23</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662941/Digital_Security_Fundamentals_oj53tm.png" alt="SkillUp 23" width="200"/></td>
       <td>Digital Security Fundamentals</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Nov-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>24</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662941/ChatGPT_for_Cybersecurity_hogo7i.png" alt="SkillUp 24" width="200"/></td>
       <td>ChatGPT for Cybersecurity</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Nov-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>25</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662941/Gemini_in_Google_Drive_kf7hy0.png" alt="SkillUp 25" width="200"/></td>
       <td>Gemini in Google Drive</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Oct-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>26</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748662940/Artificial_Intelligence_Beginners_Guide_-_What_is_AI_lo8y1m.png" alt="SkillUp 26" width="200"/></td>
       <td>Artificial Intelligence Beginners Guide - What is AI</td>
       <td>SkillUp</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>12-Nov-2024</td>
+      <td>2024</td>
     </tr>
   </tbody>
 </table>
@@ -1038,32 +1038,32 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663109/Sololearn_-_Web_Development_Fundamentals_dwlsqx.png" alt="SoloLearn 1" width="200"/></td>
       <td>Web Development Fundamentals</td>
       <td>SoloLearn</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>17-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>2</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663109/Sololearn_-_SQL_tmvbcd.png" alt="SoloLearn 2" width="200"/></td>
       <td>SQL</td>
       <td>SoloLearn</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>17-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>3</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663108/Sololearn_-_Responsive_Web_Design_u98vtd.png" alt="SoloLearn 3" width="200"/></td>
       <td>Responsive Web Design</td>
       <td>SoloLearn</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>18-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>4</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663108/Sololearn_-_HTML_acicwb.png" alt="SoloLearn 4" width="200"/></td>
       <td>HTML</td>
       <td>SoloLearn</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>16-Jul-2020</td>
+      <td>2020</td>
     </tr>
   </tbody>
 </table>
@@ -1090,56 +1090,56 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663219/Twitter-TwitterFlightSchool_Video_Badge_lp6wwx.png" alt="Twitter 1" width="200"/></td>
       <td>Twitter Flight School Video Badge</td>
       <td>Twitter</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>2</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663218/Twitter-Twitter_for_Creatives_zttfek.png" alt="Twitter 2" width="200"/></td>
       <td>Twitter for Creatives</td>
       <td>Twitter</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>3</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663218/Twitter-Performance_Fundamentals_Badge_ztxnzo.png" alt="Twitter 3" width="200"/></td>
       <td>Performance Fundamentals Badge</td>
       <td>Twitter</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>4</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663217/Twitter-Launch_and_Connect_Badge_ud6x46.png" alt="Twitter 4" width="200"/></td>
       <td>Launch and Connect Badge</td>
       <td>Twitter</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>5</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663216/Twitter-Get_Started_On_Twitter_bgcydd.png" alt="Twitter 5" width="200"/></td>
       <td>Get Started On Twitter</td>
       <td>Twitter</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>6</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663215/Twitter-Cross-Border_Advertising_rjdt0y.png" alt="Twitter 6" width="200"/></td>
       <td>Cross-Border Advertising</td>
       <td>Twitter</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>7</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663215/Twitter-Ads_Manager_Fundamentals_who05e.png" alt="Twitter 7" width="200"/></td>
       <td>Ads Manager Fundamentals</td>
       <td>Twitter</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>25-Oct-2022</td>
+      <td>2022</td>
     </tr>
   </tbody>
 </table>
@@ -1166,16 +1166,16 @@
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663250/YouTube-YouTube_Music_Rights_Management_xtx5kt.png" alt="YouTube 1" width="200"/></td>
       <td>YouTube Music Rights Management</td>
       <td>YouTube</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>26-Oct-2022</td>
+      <td>2022</td>
     </tr>
     <tr>
       <td>2</td>
       <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748663248/YouTube-YouTube_Music_Certification_jtlj8u.png" alt="YouTube 2" width="200"/></td>
       <td>YouTube Music Certification</td>
       <td>YouTube</td>
-      <td>YYYY-MM-DD</td>
-      <td>YYYY</td>
+      <td>26-Oct-2022</td>
+      <td>2022</td>
     </tr>
   </tbody>
 </table>
