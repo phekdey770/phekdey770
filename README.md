@@ -59,7 +59,7 @@
   <tbody>
     <tr>
       <td>1</td>
-      <td><img src="https://example.com/cisco1.png" alt="Cisco 1" width="200"/></td>
+      <td><img src="https://res.cloudinary.com/dowbfb9jg/image/upload/v1748660120/samples/cup-on-a-table.jpg" alt="Cisco 1" width="200"/></td>
       <td>Introduction to Cybersecurity</td>
       <td>Cisco</td>
       <td>2024-02-15</td>
