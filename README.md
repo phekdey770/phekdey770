@@ -40,6 +40,61 @@
 
 ---
 
+### 🎓 Certificates
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Certificate</th>
+      <th>Course Name</th>
+      <th>Course by</th>
+      <th>Completed Date</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>
+        <img src="https://example.com/certificate1.png" alt="Course 1" width="200"/>
+      </td>
+      <td>
+        Introduction to Web Development
+      </td>
+      <td>freeCodeCamp</td>
+      <td>2024-06-15</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+        <img src="https://example.com/certificate1.png" alt="Course 1" width="200"/>
+      </td>
+      <td>
+        Introduction to Web Development
+      </td>
+      <td>Codecademy</td>
+      <td>2024-08-10</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+        <img src="https://example.com/certificate1.png" alt="Course 1" width="200"/>
+      </td>
+      <td>
+        Introduction to Web Development
+      </td>
+      <td>Coursera</td>
+      <td>2025-01-12</td>
+      <td>2025</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### 📌 Pinned Repo
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phekdey770&repo=phekdey770&theme=dark&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF)](https://github.com/phekdey770/phekdey770)
 
