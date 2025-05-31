@@ -1,11 +1,11 @@
-<div align="center">Phekdey PHORN | ផន ភក្ដី ៚</div>
+<div align="center"><h1>Phekdey PHORN | ផន ភក្ដី ៚</h1></div>
 
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>
+<h2 align="center">Full-Stack Developer | AI Enthusiast | Open Source Contributor</h2>
 
-<p align="center">
+<i><p align="center">
   Bring everything you want with your own ability, keep learning to improve it, and share it. Welcome! I'm PHEKDEY, an IT Developer passionate about technology and innovation. I thrive on problem-solving, continuous learning, and sharing knowledge within the tech community.
-</p>
-
+</p></i>
+<br>
 
 <div align="center">
   
