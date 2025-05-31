@@ -164,6 +164,10 @@
 
 ---
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phekdey770&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF&area=true&hide_border=true)](https://github.com/phekdey770)
+
+---
+
 <div align="center">
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=រៀនច្រើន+ចេះច្រើន+រៀនគ្មានថ្មៃបញ្ចប់&author=Phekdey+Phorn)
